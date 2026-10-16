@@ -1,0 +1,492 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+3 0 obj
+<< /Length 4464 >>
+stream
+BT
+72 720 Td
+/F1 10 Tf
+() Tj
+/F1 10 Tf
+0 -14 Td () Tj
+/F1 10 Tf
+0 -14 Td () Tj
+/F2 15 Tf
+0 -14 Td (Hacktoberfest 2026 trades PRs for events) Tj
+/F1 10 Tf
+0 -14 Td () Tj
+/F1 10 Tf
+0 -14 Td (Hacktoberfest 2026 no longer counts pull requests or merge requests toward rewards, replacing) Tj
+/F1 10 Tf
+0 -14 Td (the twelve-year "open N PRs, earn a T-shirt" model with month-long, MLH- and DEV-run events and) Tj
+/F1 10 Tf
+0 -14 Td (challenges under an "AI belongs to everyone" mission funded by DigitalOcean as presenting) Tj
+/F1 10 Tf
+0 -14 Td (partner. In its place, online participants earn a mailed sticker pack at 3, 10, and 15 \(or 17,) Tj
+/F1 10 Tf
+0 -14 Td (per MLH\) virtual stickers among 24 collectible, participation-driven stickers, while 300+ one-) Tj
+/F1 10 Tf
+0 -14 Td (day Fests across 60+ countries, cash-prize DEV Challenges, Global Hack Week \(Oct 9-15\), and) Tj
+/F1 10 Tf
+0 -14 Td (livestreams anchor the program \(\(FAQ\) \(https://hacktoberfest.com/questions/\), \(MLH blog\)) Tj
+/F1 10 Tf
+0 -14 Td (\(https://blog.mlh.com/everything-you-need-to-know-about-hacktoberfest-2026-ai-belongs-to-) Tj
+/F1 10 Tf
+0 -14 Td (everyone-mdk\)\). The event is free and open to anyone aged 13+ \(subject to country and Fest-) Tj
+/F1 10 Tf
+0 -14 Td (specific rules\), yet measurable outcomes remain sparse: the most reliable public figures as of) Tj
+/F1 10 Tf
+0 -14 Td (mid-October 2026 are the MLH events API count \(531 Fests across 71 countries\) and 669,307 open) Tj
+/F1 10 Tf
+0 -14 Td (hacktoberfest issues \(~517,632 unclaimed\) on aggregator sites, not an official participation) Tj
+/F1 10 Tf
+0 -14 Td (total \(\(MLH events API\) \(https://hacktoberfest-api.mlh.com/api/events\), \(goodfirstissue.org\)) Tj
+/F1 10 Tf
+0 -14 Td (\(https://www.goodfirstissue.org/labels/hacktoberfest\)\).) Tj
+/F1 10 Tf
+0 -14 Td () Tj
+/F1 10 Tf
+0 -14 Td () Tj
+/F1 10 Tf
+0 -14 Td () Tj
+/F2 13 Tf
+0 -14 Td (PR rewards vanish as AI spam overwhelms maintainers) Tj
+/F1 10 Tf
+0 -14 Td () Tj
+/F1 10 Tf
+0 -14 Td (The defining change in 2026 is the abolition of contribution counting. "Pull requests and merge) Tj
+/F1 10 Tf
+0 -14 Td (requests will no longer count toward Hacktoberfest rewards," because low-effort spam PRs became) Tj
+/F1 10 Tf
+0 -14 Td (trivial to generate, and organizers say they are "listening to maintainer feedback") Tj
+/F1 10 Tf
+0 -14 Td (\(\(Hacktoberfest FAQ\) \(https://hacktoberfest.com/questions/\), \(Home\)) Tj
+/F1 10 Tf
+0 -14 Td (\(https://hacktoberfest.com/\)\). The MLH announcement is blunt: maintainers began to burn out) Tj
+/F1 10 Tf
+0 -14 Td (under the volume of low-effort, box-checking pull requests, and AI tools made generating those) Tj
+/F1 10 Tf
+0 -14 Td (PRs "trivial" while creating "no value" \(\(MLH blog, Aug 19, 2026\)) Tj
+/F1 10 Tf
+0 -14 Td (\(https://blog.mlh.com/hacktoberfest-2026-ai-belongs-to-everyone-3jl8\)\). This justification rests) Tj
+/F1 10 Tf
+0 -14 Td (on a documented history: 2020 saw 621,104 October PRs with 9,598 flagged spam/invalid and) Tj
+/F1 10 Tf
+0 -14 Td (172,599 sent to repos that never opted in, prompting introduction of the hacktoberfest topic) Tj
+/F1 10 Tf
+0 -14 Td (opt-in, hacktoberfest-accepted labels, and a 7-day review window \(\(Developer Relations case) Tj
+/F1 10 Tf
+0 -14 Td (study\) \(https://developerrelations.com/case-studies/overcoming-hacktoberfest-spam/\)\). By 2025,) Tj
+/F1 10 Tf
+0 -14 Td (the eligible-PR target had climbed from 4 to 6 to quality-gate the T-shirt, itself capped at the) Tj
+/F1 10 Tf
+0 -14 Td (first 10,000 "super contributors", and the OpenSSF-attributed estimate that ~35% of) Tj
+/F1 10 Tf
+0 -14 Td (Hacktoberfest-labeled PRs were closed without merging illustrates the chronic signal-to-noise) Tj
+/F1 10 Tf
+0 -14 Td (problem organizers now cite \(\(openresource.dev\)) Tj
+/F1 10 Tf
+0 -14 Td (\(https://openresource.dev/articles/hacktoberfest/\), \(tamiz.pro analysis\)) Tj
+/F1 10 Tf
+0 -14 Td (\(https://tamiz.pro/insights/hacktoberfest-2026-quality-first-open-source-habits\)\). Historical) Tj
+/F1 10 Tf
+0 -14 Td (participation had already declined nearly two-thirds, from 169,886 registered participants in) Tj
+/F1 10 Tf
+0 -14 Td (2020 to 56,768 in 2025, with eligible PRs falling from 483,127 \(2019\) to ~87,929 \(2025\) at) Tj
+/F1 10 Tf
+0 -14 Td (roughly 1.55 PRs per participant \(\(tvc-16.science\) \(https://tvc-16.science/rip-) Tj
+/F1 10 Tf
+0 -14 Td (hacktoberfest.html\)\). Whether PR-removal itself caused new pain is unverified; the best evidence) Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Length 4564 >>
+stream
+BT
+72 720 Td
+/F1 10 Tf
+(is mixed, and tvc-16 argues the participation collapse tracks tech labor-market contraction more) Tj
+/F1 10 Tf
+0 -14 Td (than event mechanics \(\(tvc-16.science\) \(https://tvc-16.science/rip-hacktoberfest.html\)\).) Tj
+/F1 10 Tf
+0 -14 Td () Tj
+/F1 10 Tf
+0 -14 Td () Tj
+/F1 10 Tf
+0 -14 Td () Tj
+/F2 13 Tf
+0 -14 Td (In-person Fests and online challenges replace contributions) Tj
+/F1 10 Tf
+0 -14 Td () Tj
+/F1 10 Tf
+0 -14 Td (With no PR leaderboard, legitimacy flows through calendars, Discord, and in-person rooms. Hack) Tj
+/F1 10 Tf
+0 -14 Td (Day and Meetup Fests are one-day events \(Hack Days run 3-12 hours with demos and teams\) where) Tj
+/F1 10 Tf
+0 -14 Td (hosts receive MLH funding/reimbursement while Meetups run unfunded, and participants gain) Tj
+/F1 10 Tf
+0 -14 Td (certificates, swag while supplies last, and possibility of Hack Day prizes \(Hacktoberfest) Tj
+/F1 10 Tf
+0 -14 Td (T-shirts, sensor-based Arduino projects at select events\) \(\(In-person overview\)) Tj
+/F1 10 Tf
+0 -14 Td (\(https://hacktoberfest.com/in-person/\), \(Host a Fest\) \(https://hacktoberfest.com/host/\), \(FAQ\)) Tj
+/F1 10 Tf
+0 -14 Td (\(https://hacktoberfest.com/questions/\)\). The MLH events API showed 531 events across 71) Tj
+/F1 10 Tf
+0 -14 Td (countries as of mid-October 2026-led by India \(224\) and the US \(101\), with India 12 and) Tj
+/F1 10 Tf
+0 -14 Td (Bengaluru 12 events individually prominent-meaning geographic access is highly uneven and) Tj
+/F1 10 Tf
+0 -14 Td (regional capacity can be as low as hand-picked 50 participants at some India events \(\(MLH events) Tj
+/F1 10 Tf
+0 -14 Td (API\) \(https://hacktoberfest-api.mlh.com/api/events\), \(spiketoday.com\)) Tj
+/F1 10 Tf
+0 -14 Td (\(https://spiketoday.com/hacktoberfest-rules/\), events.mlh API descriptions]\). Online, Global) Tj
+/F1 10 Tf
+0 -14 Td (Hack Week: Hacktoberfest \(Oct 9-15, 2026\) delivered daily livestreamed workshops,) Tj
+/F1 10 Tf
+0 -14 Td (design/technical/registration/social challenges, and Discord mini-events with GHW points \([\(GHW) Tj
+/F1 10 Tf
+0 -14 Td (events\) \(https://ghw.mlh.com/events/open-source\)\), while DEV runs five back-to-back challenges-a) Tj
+/F1 10 Tf
+0 -14 Td (Weekend Challenge \(submission deadline Oct 4, 11:59 PM PDT\) plus four weekly themes \(Week 1 Oct) Tj
+/F1 10 Tf
+0 -14 Td (5-11, Week 2 Oct 12-18, Week 3 Oct 19-25, Week 4 Oct 26-31\) each offering Overall $250 + DEV++ +) Tj
+/F1 10 Tf
+0 -14 Td (badge, Featured $200, category $100, and completion badges-all built on the single prompt "Build) Tj
+/F1 10 Tf
+0 -14 Td (something with open-source AI at its core" \(\(DEV HF26\) \(https://dev.to/challenges/hf26\), \(DEV) Tj
+/F1 10 Tf
+0 -14 Td (Week 1\) \(https://dev.to/challenges/hacktoberfest-week1-2026-10-05\)\). Free partner credits) Tj
+/F1 10 Tf
+0 -14 Td (\(Tinker, Render, Backboard.io, .tech domains\) add a sponsor-centric flavor to the build) Tj
+/F1 10 Tf
+0 -14 Td (incentives \(\(DEV Week 1\) \(https://dev.to/challenges/hacktoberfest-week1-2026-10-05\)\).) Tj
+/F1 10 Tf
+0 -14 Td () Tj
+/F1 10 Tf
+0 -14 Td () Tj
+/F1 10 Tf
+0 -14 Td () Tj
+/F2 13 Tf
+0 -14 Td (Tagged issue backlogs keep contributions flowing without rewards) Tj
+/F1 10 Tf
+0 -14 Td () Tj
+/F1 10 Tf
+0 -14 Td (The official pivot did not end repo-side October work, but it reclassified it.) Tj
+/F1 10 Tf
+0 -14 Td (GoodFirstIssue.org indexed 669,307 open hacktoberfest issues on Oct 16, 2026, of which roughly) Tj
+/F1 10 Tf
+0 -14 Td (517,632 remain unclaimed, with an average annotated difficulty of 3.7/5 and 11% of time) Tj
+/F1 10 Tf
+0 -14 Td (estimates at one day or less; ~9,738 issues opened in the prior seven days show the backlog is) Tj
+/F1 10 Tf
+0 -14 Td (actively replenished \(\(goodfirstissue.org\)) Tj
+/F1 10 Tf
+0 -14 Td (\(https://www.goodfirstissue.org/labels/hacktoberfest\)\). The GitHub hacktoberfest topic covers) Tj
+/F1 10 Tf
+0 -14 Td (148,820 public repositories \(with 25,097 carrying hacktoberfest-accepted\) \(GitHub topics) Tj
+/F1 10 Tf
+0 -14 Td (\(https://github.com/topics/hacktoberfest\)\), and TrendForge's Oct 11 weekly #hacktoberfest report) Tj
+/F1 10 Tf
+0 -14 Td (surfaced 46 trending projects with star deltas, including Apollo-11, Termux, Kestra, and Bubble) Tj
+/F1 10 Tf
+0 -14 Td (Tea \(TrendForge \(https://trendforge.devlive.org/report/topic/hacktoberfest/weekly/2026-10-11\)\).) Tj
+/F1 10 Tf
+0 -14 Td (Maintainer communities \(Owncast, TunaOS, KubeStellar, GDG chapters, OpenCodeChicago, Python) Tj
+/F1 10 Tf
+0 -14 Td (Philippines/RELX, React Hyderabad\) publish opt-in guidance, and a DEV maintainer hub frames) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Length 4883 >>
+stream
+BT
+72 720 Td
+/F1 10 Tf
+("self-contained issues you can actually finish in a sitting" for AI agent tooling \(TunaOS) Tj
+/F1 10 Tf
+0 -14 Td (hacktoberfest 2026 \(https://tunaos.org/docs/tunaos/hacktoberfest-2026\), Chawla DEV post) Tj
+/F1 10 Tf
+0 -14 Td (\(https://dev.to/tisha/hacktoberfest-2026-help-us-govern-and-reproduce-ai-agents-59n1\)\). Common) Tj
+/F1 10 Tf
+0 -14 Td (beginner deliverables are documentation, unit tests, i18n string wrapping, magic-number) Tj
+/F1 10 Tf
+0 -14 Td (extraction, and checksum/SBOM docs, accepted via claim-before-work rules, DCO sign-off \(git) Tj
+/F1 10 Tf
+0 -14 Td (commit -s\), linked issues \(Fixes #123\), focused diffs, and CI tests \(TunaOS) Tj
+/F1 10 Tf
+0 -14 Td (\(https://tunaos.org/docs/tunaos/hacktoberfest-2026\), Scrimba beginner guide) Tj
+/F1 10 Tf
+0 -14 Td (\(https://scrimbaguide.tech/blog/hacktoberfest-2026-first-pull-request/\)\). Aggregators recommend) Tj
+/F1 10 Tf
+0 -14 Td (issue-hunter queries like is:issue is:open label:"hacktoberfest" label:"good first issue") Tj
+/F1 10 Tf
+0 -14 Td (no:assignee plus -linked:pr, since visible discoverability of unclaimed issues-not issue) Tj
+/F1 10 Tf
+0 -14 Td (creation-is now the critical Curation metric \(boomspot guide \(https://www.boomspot.com/how-to-) Tj
+/F1 10 Tf
+0 -14 Td (find-good-first-issues-for-hacktoberfest-2026\)\). The pivot thus shifted open-source October) Tj
+/F1 10 Tf
+0 -14 Td (effort from counting to matching well-scoped, claimable work, while the event itself no longer) Tj
+/F1 10 Tf
+0 -14 Td (endorses any specific repo or label scheme \(hacktoberfest.com/resources/maintainers 404) Tj
+/F1 10 Tf
+0 -14 Td (\(https://hacktoberfest.com/resources/maintainers\)\).) Tj
+/F1 10 Tf
+0 -14 Td () Tj
+/F1 10 Tf
+0 -14 Td () Tj
+/F1 10 Tf
+0 -14 Td () Tj
+/F2 13 Tf
+0 -14 Td (Controversy and impact debates split open-source voices) Tj
+/F1 10 Tf
+0 -14 Td () Tj
+/F1 10 Tf
+0 -14 Td (The 2026 pivot is contested on pipelines, access, and corporate influence. Sponsors include) Tj
+/F1 10 Tf
+0 -14 Td (Tiger Data, Snowflake, MongoDB, Gauge, Solana, Render, GitHub, Sentry, Backboard.io, IBM,) Tj
+/F1 10 Tf
+0 -14 Td (ElevenLabs, Paper Compute, Entire, Prior Labs, Google Cloud/Gemma, Qualcomm, Arduino, Mastra,) Tj
+/F1 10 Tf
+0 -14 Td (Temporal, TLDR, Thinking Machines, .tech, and SerpApi, creating a narrative of an event) Tj
+/F1 10 Tf
+0 -14 Td (increasingly "built by partners" \(llms-full.txt \(https://hacktoberfest.com/llms-full.txt\)\).) Tj
+/F1 10 Tf
+0 -14 Td (Critics on Reddit complain that losing PR tracking "means the death of Hacktoberfest as a) Tj
+/F1 10 Tf
+0 -14 Td (phenomenon," citing loss of review-based feedback and motivation \(r/hacktoberfest comment \(https) Tj
+/F1 10 Tf
+0 -14 Td (://www.reddit.com/r/hacktoberfest/comments/1vsuffw/hacktoberfest_2026_ai_belongs_to_everyone/\)\),) Tj
+/F1 10 Tf
+0 -14 Td (and India contributors note that Fest availability lags India's size \("very less fests compared) Tj
+/F1 10 Tf
+0 -14 Td (to size of India"\) with disappointment over the format change \(r/developersIndia \(https://www.re) Tj
+/F1 10 Tf
+0 -14 Td (ddit.com/r/developersIndia/comments/1w913n6/are_there_really_no_hacktoberfest_2026_events/\)\).) Tj
+/F1 10 Tf
+0 -14 Td (Historical retainers such as no T-shirt promise online \(only in-person supplies and a) Tj
+/F1 10 Tf
+0 -14 Td (Completionist raffle of a T-shirt or an Arduino Uno Q\) added grievance, since 2025 had briefly) Tj
+/F1 10 Tf
+0 -14 Td (reintroduced T-shirts capped at 10,000 before the 2026 cut \(FAQ) Tj
+/F1 10 Tf
+0 -14 Td (\(https://hacktoberfest.com/questions/\), \(tvc-16.science\) \(https://tvc-16.science/rip-) Tj
+/F1 10 Tf
+0 -14 Td (hacktoberfest.html\)\). Organizers still cite educational wins: Jess Lee reported 500+ Fests in) Tj
+/F1 10 Tf
+0 -14 Td (60+ countries and 3,000 projects submitted in the first week, including a Pakistan Hack Day) Tj
+/F1 10 Tf
+0 -14 Td (hospital platform and a multimodal accessibility tool \(DEV context) Tj
+/F1 10 Tf
+0 -14 Td (\(https://dev.to/dailycontext/one-weekend-3000-open-source-ai-projects-3g65\)\). The causal debate) Tj
+/F1 10 Tf
+0 -14 Td (over impact is unresolved: Hacktoberfest historically powered hundreds of thousands of first) Tj
+/F1 10 Tf
+0 -14 Td (contributions \(freeCodeCamp grew a quiz site from 694 to 1,171 questions in one October;) Tj
+/F1 10 Tf
+0 -14 Td (Meilisearch hired contributor Bruno Casali ten days after his first contribution in 2021\), while) Tj
+/F1 10 Tf
+0 -14 Td (challenges like ServiceNow's saw 1,375 PRs \(+89%\) in 2024, but 2026's new model deliberately de-) Tj
+/F1 10 Tf
+0 -14 Td (targets those pipelines \(openresource.dev \(https://openresource.dev/articles/hacktoberfest/\),) Tj
+/F1 10 Tf
+0 -14 Td (ServiceNow Community \(https://www.servicenow.com/community/developer-advocate-) Tj
+/F1 10 Tf
+0 -14 Td (blog/hacktoberfest-2024-review/ba-p/3099284\)\). Open-resource skeptics worry the event trades) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Length 4858 >>
+stream
+BT
+72 720 Td
+/F1 10 Tf
+(first-PR pathways to local events and cash-prize contests, and that AI-slop pressures \(already) Tj
+/F1 10 Tf
+0 -14 Td (compared to 2020's "Shitoberfest"\) persist year-round, with one maintainer describing a "first) Tj
+/F1 10 Tf
+0 -14 Td (assumption on receiving a large PR is that it's AI-generated," eroding willingness to review) Tj
+/F1 10 Tf
+0 -14 Td (\(martinsos.com \(https://martinsos.com/posts/contributing-in-2026\), Publicasta \(https://publicast) Tj
+/F1 10 Tf
+0 -14 Td (a.com/open_source_radar/ai_slop_pull_requests_open_source_maintainers_2026_08_28?lang=en\)\).) Tj
+/F1 10 Tf
+0 -14 Td (Accessibility provision is delegated to hosts; explicit channels exist via "Contact Host" for) Tj
+/F1 10 Tf
+0 -14 Td (accommodation/equipment requests, beginner Meetups require no AI project experience, and a) Tj
+/F1 10 Tf
+0 -14 Td (community \(Cameroon, month-long, multi-hub\) agenda explicitly includes accessibility and) Tj
+/F1 10 Tf
+0 -14 Td (African-language topics while discouraging mass-generated or unexplainable AI contributions) Tj
+/F1 10 Tf
+0 -14 Td (\(hacktoberfest.cm \(https://hacktoberfest.cm/\), \(In-person\) \(https://hacktoberfest.com/in-) Tj
+/F1 10 Tf
+0 -14 Td (person/\)\). No Hacktoberfest-specific 2026 demographic data have been published, and the event) Tj
+/F1 10 Tf
+0 -14 Td (remains in progress, so verdicts on inclusion, pipeline outcomes, or spam reduction are) Tj
+/F1 10 Tf
+0 -14 Td (unverifiable from official data \(tvc-16.science \(https://tvc-16.science/rip-) Tj
+/F1 10 Tf
+0 -14 Td (hacktoberfest.html\)\).) Tj
+/F1 10 Tf
+0 -14 Td () Tj
+/F1 10 Tf
+0 -14 Td () Tj
+/F1 10 Tf
+0 -14 Td () Tj
+/F2 13 Tf
+0 -14 Td (Best practices now favor bounded scope and owned contributions) Tj
+/F1 10 Tf
+0 -14 Td () Tj
+/F1 10 Tf
+0 -14 Td (Experienced maintainers and contributors converge on operational rigor rather than PR volume.) Tj
+/F1 10 Tf
+0 -14 Td (Recommended maintainer practices include: conduct contribution gates in CI \(tests at all) Tj
+/F1 10 Tf
+0 -14 Td (appropriate levels, no warnings, docs updates when behavior changes\), keep PRs scoped to roughly) Tj
+/F1 10 Tf
+0 -14 Td (under ~400 lines, publish a CONTRIBUTING.md, issue templates with required fields, and) Tj
+/F1 10 Tf
+0 -14 Td (difficulty tiers, audit CI/CD and consider OpenSSF Scorecards, plus saved close messages \("does) Tj
+/F1 10 Tf
+0 -14 Td (not meet our contribution bar"\) and clear AI-disclosure policies that require reproduction) Tj
+/F1 10 Tf
+0 -14 Td (details, versions, and exploitability for security issues \(tamiz.pro/dev.to) Tj
+/F1 10 Tf
+0 -14 Td (\(https://tamiz.pro/insights/hacktoberfest-2026-quality-first-open-source-habits\), Publicasta \(ht) Tj
+/F1 10 Tf
+0 -14 Td (tps://publicasta.com/open_source_radar/ai_slop_pull_requests_open_source_maintainers_2026_08_28?) Tj
+/F1 10 Tf
+0 -14 Td (lang=en\), Open resource retrospective \(https://openresource.dev/articles/hacktoberfest/\)\).) Tj
+/F1 10 Tf
+0 -14 Td (Historically effective spam counters-hacktoberfest topic opt-in, hacktoberfest-accepted) Tj
+/F1 10 Tf
+0 -14 Td (acceptance labels, 7-day review windows, spam labels, reporting tools, advisory council-remain) Tj
+/F1 10 Tf
+0 -14 Td (the playbook even though 2026 deleted PR counting entirely, and GitHub's 2026 PR open limits and) Tj
+/F1 10 Tf
+0 -14 Td (interaction limits for non-write-access users provide infrastructure-level throttling \(Developer) Tj
+/F1 10 Tf
+0 -14 Td (Relations \(https://developerrelations.com/case-studies/overcoming-hacktoberfest-spam/\),) Tj
+/F1 10 Tf
+0 -14 Td (openresource.dev \(https://openresource.dev/articles/hacktoberfest/\)\). Contributor-side advice) Tj
+/F1 10 Tf
+0 -14 Td (centers on claiming issues explicitly and waiting for acknowledgment, respecting scope, writing) Tj
+/F1 10 Tf
+0 -14 Td (tests, linking issues, and not submitting cosmetic-only sweeps; disclosing AI use and owning) Tj
+/F1 10 Tf
+0 -14 Td (each contribution \(use the project first, write without AI "smell" when possible\) builds the) Tj
+/F1 10 Tf
+0 -14 Td (trust that maintainers treat as scarce \(Help Wanted guide) Tj
+/F1 10 Tf
+0 -14 Td (\(https://helpwanted.dev/blog/hacktoberfest-2026\), Chawla DEV post) Tj
+/F1 10 Tf
+0 -14 Td (\(https://dev.to/tisha/hacktoberfest-2026-help-us-govern-and-reproduce-ai-agents-59n1\),) Tj
+/F1 10 Tf
+0 -14 Td (martinsos.com \(https://martinsos.com/posts/contributing-in-2026\)\). One cloud maintainer's 2025) Tj
+/F1 10 Tf
+0 -14 Td (experience shows the failure mode when AI-assisted PRs are approved in bulk: one PR "fixed" an) Tj
+/F1 10 Tf
+0 -14 Td (already-resolved, unclosed issue likely fed to Cursor, and review stretched beyond Nov 15,) Tj
+/F1 10 Tf
+0 -14 Td (reinforcing that claimed scope and pre-vetted issue subsets reduce waste \(Cloudinary DEV post) Tj
+/F1 10 Tf
+0 -14 Td (\(https://dev.to/cloudinary/hacktoberfest-as-a-first-time-maintainer-2pkn\)\).) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Length 1481 >>
+stream
+BT
+72 720 Td
+/F1 10 Tf
+() Tj
+/F1 10 Tf
+0 -14 Td () Tj
+/F1 10 Tf
+0 -14 Td () Tj
+/F2 13 Tf
+0 -14 Td (Conclusion) Tj
+/F1 10 Tf
+0 -14 Td () Tj
+/F1 10 Tf
+0 -14 Td (Hacktoberfest 2026 marks a deliberate separation of community participation from PR volume) Tj
+/F1 10 Tf
+0 -14 Td (accounting, betting that in-person mentorship and AI build-and-ship challenges can sustain) Tj
+/F1 10 Tf
+0 -14 Td (momentum while AI makes synthetic contributions cheap. The tradeoff is explicit: upstream) Tj
+/F1 10 Tf
+0 -14 Td (projects lose the October "first contribution" flood that historically fed long-term pipelines,) Tj
+/F1 10 Tf
+0 -14 Td (but gain protection from volume-driven review collapse, and contributors gain claimable, bounded) Tj
+/F1 10 Tf
+0 -14 Td (work and local onboarding but lose reward-activated contribution feedback. Whether the new model) Tj
+/F1 10 Tf
+0 -14 Td (reinvigorates participation or marks managed decline depends on metrics organizers have not yet) Tj
+/F1 10 Tf
+0 -14 Td (published; decisive evidence will come from post-October retrospectives, Fest attendance data,) Tj
+/F1 10 Tf
+0 -14 Td (DEV Challenge submission quality, and maintainer-reported review load, not from announcement) Tj
+/F1 10 Tf
+0 -14 Td (enthusiasm. The lasting lesson is that reward design is the central lever of open-source) Tj
+/F1 10 Tf
+0 -14 Td (participation contests, and that 2026 optimizes for AI literacy and local networks rather than) Tj
+/F1 10 Tf
+0 -14 Td (upstream diff counts.) Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 13 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 3 0 R >>
+endobj
+9 0 obj
+<< /Type /Page /Parent 13 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 4 0 R >>
+endobj
+10 0 obj
+<< /Type /Page /Parent 13 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 5 0 R >>
+endobj
+11 0 obj
+<< /Type /Page /Parent 13 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 6 0 R >>
+endobj
+12 0 obj
+<< /Type /Page /Parent 13 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 7 0 R >>
+endobj
+13 0 obj
+<< /Type /Pages /Kids [8 0 R 9 0 R 10 0 R 11 0 R 12 0 R] /Count 5 >>
+endobj
+14 0 obj
+<< /Type /Catalog /Pages 13 0 R >>
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000000 00000 n 
+0000000070 00000 n 
+0000000145 00000 n 
+0000004661 00000 n 
+0000009277 00000 n 
+0000014212 00000 n 
+0000019122 00000 n 
+0000020655 00000 n 
+0000020792 00000 n 
+0000020929 00000 n 
+0000021067 00000 n 
+0000021205 00000 n 
+0000021343 00000 n 
+0000021428 00000 n 
+trailer
+<< /Size 15 /Root 14 0 R >>
+startxref
+21479
+%%EOF
